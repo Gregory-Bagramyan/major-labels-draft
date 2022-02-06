@@ -7,7 +7,8 @@ For this analysis I used :
 
 And here is a preview/draft of my upcomming article(s) where I will be documenting this project : 
 
-                                              The Goal for this Project
+## The Goal For This Project 
+
 ### Initial Question 
 
 If you are interested in the business side of music you probably ear all the time that “major labels control the industry”, 
